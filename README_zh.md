@@ -1,13 +1,10 @@
 # SenseTTY 官方发布仓库
 
-<div align="center">
-
-![SenseTTY Logo](assets/app_icon.png)
 
 **面向开发、运维与嵌入式工程师的现代化跨平台操作控制台与 AI 终端**
 
 [![Platforms](https://img.shields.io/badge/Platforms-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Android-green)]()
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)]()
+[![Release](https://img.shields.io/badge/Release-v1.0.2-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-orange)]()
 
 [English](README.md) | [简体中文](README_zh.md)
